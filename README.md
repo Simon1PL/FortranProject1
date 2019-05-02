@@ -27,8 +27,8 @@ Plik cmake nie został spradzony z powodu braku cmake-a na moim systemie windows
 ### Wnioski:
 Wykresy:
 precyzja=4:
-![4](https://github.com/Simon1PL/FortranProject1/blob/master/res/wykres4.pdf)
+![4](https://user-images.githubusercontent.com/44688394/57106963-15508600-6d2f-11e9-94ee-e0ae14303cc0.PNG)
 precyzja=8:
 ![8](https://user-images.githubusercontent.com/44688394/57106805-9fe4b580-6d2e-11e9-9bd2-a84bdc5b0e80.PNG)
 precyzja=16:
-![16](https://render.githubusercontent.com/view/pdf?commit=5fabc15eae4836da00ae637e45bfa5de1c8e782f&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f53696d6f6e31504c2f466f727472616e50726f6a656374312f356661626331356561653438333664613030616536333765343562666135646531633865373832662f7265732f77796b72657331362e706466&nwo=Simon1PL%2FFortranProject1&path=res%2Fwykres16.pdf&repository_id=183651746&repository_type=Repository#e973f83f-b5cb-4066-8974-a08a12f6c2d9)
+![16](https://user-images.githubusercontent.com/44688394/57106940-0073f280-6d2f-11e9-8a01-0fc0a40a2804.PNG)
