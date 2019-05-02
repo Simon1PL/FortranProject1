@@ -2,7 +2,7 @@
 ## Fortran projekt 1
 
 ### Opis projektu::
-Program porównuje czasy działania czterech algorytmow mnożenia macierzy: 
+Program porównuje czasy działania czterech algorytmow mnożenia macierzy:   
 1.Wersja naiwna. (naive)    
 2.Poprawiona funkcja korzytająca z informacji jak przechowywane są tablice w języku fortran oraz z faktu, że można zmieniać kolejność operacji dodawania (a co za tym idzie kolejność pętli). (better) 
 3.Kolejna poprawiona funkcja wykorzystująca fakt, że mnożenie wiersza przez kolumnę (lub na odwrót) można przedstawić jako iloczyn skalarny. (dot) 
