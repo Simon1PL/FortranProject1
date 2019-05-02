@@ -32,4 +32,3 @@ precyzja=8:
 ![8](https://github.com/Simon1PL/FortranProject1/blob/master/res/wykres8.pdf)
 precyzja=16:
 ![16](./res/wykres16.pdf)
-[![Everything Is AWESOME](./res/wykres16.pdf)](./res/wykres16.pdf "Everything Is AWESOME")
