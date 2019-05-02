@@ -34,4 +34,4 @@ precyzja=8:
 ![8](https://user-images.githubusercontent.com/44688394/57106805-9fe4b580-6d2e-11e9-9bd2-a84bdc5b0e80.PNG)
 precyzja=16:
 ![16](https://user-images.githubusercontent.com/44688394/57106940-0073f280-6d2f-11e9-8a01-0fc0a40a2804.PNG)
-Funkcja matmul oczywiscie dziala najszybciej w kazdym przypadku, co nie jest zaskoczeniem. Zaskoczeniem jest natomiast jak wolno dziala funkcja dot_product wykonująca mnożenie wektorów dla większych wektorów. przy duzych danych funkcja dot zaczyna dzialac wolniej nawet od funkcji naive.
+Funkcja matmul oczywiscie dziala najszybciej w kazdym przypadku, co nie jest zaskoczeniem. Zaskoczeniem jest natomiast jak wolno dziala funkcja dot_product wykonująca mnożenie wektorów dla większych wektorów. przy duzych danych funkcja dot zaczyna dzialac wolniej nawet od funkcji naive. Można tez zauwazyc ze czym wieksza precyzja tym dluzszy czas wykonywania algorytmow.
