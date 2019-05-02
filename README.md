@@ -32,4 +32,4 @@ precyzja=8:
 ![8](https://github.com/Simon1PL/FortranProject1/blob/master/res/wykres8.pdf)
 precyzja=16:
 ![16](./res/wykres16.pdf)
-![Algorithm schema](./res/wykres16.png) 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](./res/wykres16.pdf "Everything Is AWESOME")
