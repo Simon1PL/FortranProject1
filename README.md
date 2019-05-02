@@ -14,7 +14,7 @@ Wyniki przedstawione są dla 3 różnych precyzji na wykresach.
 * **main.f90** zawierający główny kod projektu
 * **naive.f90** moduł zawierający interface z podpiętymi trzema funkcjami mnożącymi macierze metodą naiwną - każda obsługująca daną precyzję
 * **betermath.f90** to samo tylko funkcje mnożące macierze metodą ulepszoną
-* **dot.f90** to samo tylko funkcje mnożące macierze metodą wykorzystująca iloczyn skalarny
+* **dot.f90** to samo tylko funkcje mnożące macierze metodą wykorzystująca iloczyn skalarny  
 2. W katalogu res: 
 * **pliki .pdf** zawierające wykresy
 * **pliki .p** zawierające kod gnuplot do stworzenia tych wykresów
