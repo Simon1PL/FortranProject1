@@ -23,7 +23,8 @@ Wyniki przedstawione są dla 3 różnych precyzji na wykresach.
 
 ### Uwagi:
 Program został napisany na system Windows, co oznacza że aby zadziałał na linuxie należy zmienić format podawania ścieżek względnych do plików z wynikami w pliku main.F90  
-Plik cmake nie został spradzony z powodu braku cmake-a na moim systemie windows 
+Plik cmake nie został spradzony z powodu braku cmake-a na moim systemie windows  
+Plik gnuplot działa niepoprawnie dla wyników 0
 
 ### Wnioski:
 Wykresy:  
@@ -33,3 +34,4 @@ precyzja=8:
 ![8](https://user-images.githubusercontent.com/44688394/57106805-9fe4b580-6d2e-11e9-9bd2-a84bdc5b0e80.PNG)
 precyzja=16:
 ![16](https://user-images.githubusercontent.com/44688394/57106940-0073f280-6d2f-11e9-8a01-0fc0a40a2804.PNG)
+Funkcja matmul oczywiscie dziala najszybciej w kazdym przypadku, co nie jest zaskoczeniem. Zaskoczeniem jest natomiast jak wolno dziala funkcja dot_product wykonująca mnożenie wektorów dla większych wektorów. przy duzych danych funkcja dot zaczyna dzialac wolniej nawet od funkcji naive.
