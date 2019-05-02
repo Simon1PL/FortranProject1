@@ -23,7 +23,7 @@ Wyniki przedstawione są dla 3 różnych precyzji na wykresach.
 
 ### Uwagi:
 Program został napisany na system Windows, co oznacza że aby zadziałał na linuxie należy zmienić format podawania ścieżek względnych do plików z wynikami w pliku main.F90  
-Plik cmake nie został spradzony z powodu braku cmake-a na moim systemie windows, co nie oznacza ze nie dziala poprawnie
+Plik cmake nie został spradzony z powodu braku cmake-a na moim systemie windows, co nie oznacza ze nie dziala poprawnie  
 Plik gnuplot działa niepoprawnie dla wyników 0
 
 ### Wnioski:
